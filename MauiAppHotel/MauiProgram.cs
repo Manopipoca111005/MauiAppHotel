@@ -13,6 +13,9 @@ namespace MauiAppHotel
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("CascadiaCode-Italic-VariableFont_wght.ttf", "CascadiaCode-Italic-VariableFont_wght");
+                    fonts.AddFont("CascadiaCode-VariableFont_wght.ttf", "CascadiaCode-VariableFont_wght");
+
                 });
 
 #if DEBUG
